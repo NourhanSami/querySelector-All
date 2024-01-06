@@ -1,0 +1,21 @@
+div{
+    background-color: maroon;
+    margin: 200px;
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    padding: 15px;
+    color: wheat;
+}
+
+
+button{
+    background-color: wheat;
+    width: 90px;
+    height: 40px;
+    color: maroon;
+    font-size: 20px;
+    border-radius: 15px;
+}
